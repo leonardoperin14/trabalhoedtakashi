@@ -4,7 +4,7 @@
 #include <math.h>
 #include "cJSON.h"
 
-#define TAMANHO_TABELA 6000
+#define TAMANHO_TABELA 12000
 
 typedef struct {
     int codigo_ibge;
